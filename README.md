@@ -60,19 +60,17 @@ My passion lies in developing impactful digital solutions and contributing to op
 
 # 📊 Skills Diagram
 
+ 
 <div align="center">
 
- 
-timeline
-    title Skill Growth Over Time
-    2019 : Frontend Foundations
-    2020 : Backend Development
-    2021 : Database Engineering
-    2022 : DevOps & CI/CD
-    2023 : Systems Architecture
-
-
-</div>
+```mermaid
+pie title Skill Distribution
+  "Frontend" : 90
+  "Backend" : 85
+  "Databases" : 88
+  "DevOps" : 70
+  "Architecture" : 75
+</div> ```
 
 ---
 
