@@ -2,28 +2,7 @@
 
  
  
-# 📊 Skills Diagram
-
-<div align="center">
-
-```mermaid
-pie title Skill Distribution
-  "Frontend" : 90
-  "Backend" : 85
-  "Databases" : 88
-  "DevOps" : 70
-  "Architecture" : 75
-````
-
-</div>
-```
-
----
-
-# ✅ **Here is your entire README corrected with no errors**
-
-Paste this directly into your README:
-
+ 
  
 <!-- Banner -->
 <div align="center">
