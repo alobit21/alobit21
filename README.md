@@ -1,6 +1,30 @@
  
 
  
+````md
+# 📊 Skills Diagram
+
+<div align="center">
+
+```mermaid
+pie title Skill Distribution
+  "Frontend" : 90
+  "Backend" : 85
+  "Databases" : 88
+  "DevOps" : 70
+  "Architecture" : 75
+````
+
+</div>
+```
+
+---
+
+# ✅ **Here is your entire README corrected with no errors**
+
+Paste this directly into your README:
+
+````md
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=230&section=header&text=CODEWITHMAC&fontSize=60&fontColor=ffffff&animation=fadeIn" />
@@ -60,7 +84,6 @@ My passion lies in developing impactful digital solutions and contributing to op
 
 # 📊 Skills Diagram
 
- 
 <div align="center">
 
 ```mermaid
@@ -70,7 +93,9 @@ pie title Skill Distribution
   "Databases" : 88
   "DevOps" : 70
   "Architecture" : 75
-</div> ```
+````
+
+</div>
 
 ---
 
@@ -125,4 +150,5 @@ A smooth real-time messaging app with multi-room support and event-driven archit
 </div>
 ```
 
+---
  
