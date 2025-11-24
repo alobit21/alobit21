@@ -62,7 +62,7 @@ My passion lies in developing impactful digital solutions and contributing to op
 
 <div align="center">
 
-```mermaid
+ 
 radar
   title Developer Skill Overview
   axes
@@ -73,7 +73,7 @@ radar
     "Architecture" : 75
   data
     "Skill Level" : 90, 85, 88, 70, 75
-````
+ 
 
 </div>
 
