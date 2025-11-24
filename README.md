@@ -1,7 +1,7 @@
  
 
  
-````md
+ 
 # 📊 Skills Diagram
 
 <div align="center">
@@ -24,7 +24,7 @@ pie title Skill Distribution
 
 Paste this directly into your README:
 
-````md
+ 
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=230&section=header&text=CODEWITHMAC&fontSize=60&fontColor=ffffff&animation=fadeIn" />
