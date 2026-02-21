@@ -118,7 +118,7 @@ A smooth real-time messaging app with multi-room support and event-driven archit
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alobit21\&theme=tokyonight\&row=1\&column=7\&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github.tarxemo.com/badges/alobit21/trophies/)](https://github.tarxemo.com/github/user/alobit21/)
 
 </div>
 
