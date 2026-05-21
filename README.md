@@ -78,39 +78,8 @@ pie title Skill Distribution
 
 ---
 
-# ⭐ Featured Projects
 
-### 🚀 **1. Full-Stack SaaS Starter Kit**
 
-**Stack:** Next.js • NestJS • PostgreSQL • Prisma
-A production-ready SaaS boilerplate with authentication, dashboards, REST APIs, and billing integration.
-
----
-
-### 🛒 **2. E-commerce Platform**
-
-**Stack:** React • Django • PostgreSQL
-A full-featured e-commerce system with product management, search, authentication, and payments.
-
----
-
-### 💬 **3. Real-Time Chat App**
-
-**Stack:** Vue • Node.js • Socket.io • MongoDB
-A smooth real-time messaging app with multi-room support and event-driven architecture.
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alobit21&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobit21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alobit21\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
