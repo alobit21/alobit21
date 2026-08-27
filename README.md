@@ -66,8 +66,7 @@ My passion lies in developing impactful digital solutions and contributing to op
 # 🏆 Achievements
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alobit21&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/alobit21)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=alobt21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 ---
 
