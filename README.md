@@ -6,7 +6,7 @@
  
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=230&section=header&text=CODEWITHMAC&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=230&section=header&text=AloyceMtavangu&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 # 🚀 Full-Stack Developer • Software Engineer • Open-Source Builder
