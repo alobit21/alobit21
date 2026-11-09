@@ -63,16 +63,20 @@ My passion lies in developing impactful digital solutions and contributing to op
 
 
 ---
+
 # 🏆 Achievements
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alobt21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alobit21&theme=radical" alt="profile details" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alobit21&show_icons=true&theme=radical" alt="stats" height="170" />
+<img src="https://streak-stats.demolab.com/?user=alobit21&theme=radical" alt="streak" height="170" />
+
 </div>
+
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:0EA5E9&height=150&section=footer" />
 </div>
-```
-
- 
