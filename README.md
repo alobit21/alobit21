@@ -1,84 +1,78 @@
- 
-
- 
- 
- 
- 
-<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=230&section=header&text=AloyceMtavangu&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=200&section=header&text=Aloyce%20Mtavangu&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Aloyce Mtavangu" />
 
-# 🚀 Full-Stack Developer • Software Engineer • Open-Source Builder
+### Full-Stack Software Engineer · Dodoma, Tanzania 🇹🇿
 
-<div align="center">
+React · Next.js · NestJS · Django · PostgreSQL · Docker
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=React+%7C+Vue+%7C+Next.js;Django+%7C+NestJS+Developer;PostgreSQL+%7C+MySQL+%7C+MongoDB;Clean+Code+%7C+Scalable+Systems;Open-Source+Contributor)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://mac.tarxemo.com)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mac@tarxemo.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloyce-mtavangu-5932652a0)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alobit21)
-
-<img src="https://komarev.com/ghpvc/?username=alobit21&style=for-the-badge&color=blueviolet" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white)](https://mac.tarxemo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mac@tarxemo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloyce-mtavangu-5932652a0)
 
 </div>
 
----
+## 👋 About
 
-## 👋 Welcome!
+I'm a full-stack engineer at **Tarxemo Software Company**, building web platforms end to end: React/Next.js frontends, NestJS and Django APIs, PostgreSQL data models, and Docker-based deployments.
 
-I'm a full-stack software engineer who loves building scalable APIs, immersive user interfaces, and secure backend systems.  
-My passion lies in developing impactful digital solutions and contributing to open-source technologies.
+📫 Open to collaboration and freelance work. The fastest way to reach me is by [email](mailto:mac@tarxemo.com).
 
----
+## 🚀 Featured Projects
 
-# 🛠️ Tech Stack
+| Project | What it is | Stack |
+|---|---|---|
+| [**KilimoBora**](https://github.com/alobit21/SmartKilimo) | Multi-tenant smart-agriculture platform for Tanzanian farmers: market intelligence, crop recommendations, buyer connections, English/Swahili | React, NestJS, TypeORM, PostgreSQL |
+| [**Movie Booking System**](https://github.com/alobit21/MovieBS-FullStack) | Full-stack movie ticket booking with a NestJS backend | TypeScript, NestJS |
+| [**Moova**](https://moova-web.vercel.app) · [code](https://github.com/alobit21/Moova-Web) | Web app, live demo | React, TypeScript |
+| [**GitHub Repository Tracker**](https://github-repository-tracking.vercel.app) · [code](https://github.com/alobit21/Github_repository_tracking-) | Track GitHub repositories, live demo | React, TypeScript, Vite |
+| [**Books Finder**](https://books-finder-brown.vercel.app) · [code](https://github.com/alobit21/BooksFinder) | Search and browse books, live demo | React, TypeScript |
+| [**Expenses Tracking System**](https://github.com/alobit21/EXPENSES-TRACKING-SYSTEM) | Expense tracking API | NestJS, GraphQL, PostgreSQL, Docker |
+
+More on my [repositories page](https://github.com/alobit21?tab=repositories).
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**Languages**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### **Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Backend**<br>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### **DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Data & Tools**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
- 
-
-
----
-
-# 🏆 Achievements
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alobit21&theme=radical" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alobit21&theme=tokyonight" alt="GitHub profile summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alobit21&theme=radical" alt="stats" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alobit21&theme=radical" alt="languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alobit21&theme=tokyonight" alt="GitHub stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alobit21&theme=tokyonight" alt="Most used languages" height="170" />
 
-<img src="https://streak-stats.demolab.com/?user=alobit21&theme=radical" alt="streak" height="170" />
+<img src="https://streak-stats.demolab.com/?user=alobit21&theme=tokyonight" alt="Contribution streak" height="170" />
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:0EA5E9&height=120&section=footer" alt="" />
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:0EA5E9&height=150&section=footer" />
 </div>
