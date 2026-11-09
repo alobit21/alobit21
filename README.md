@@ -70,7 +70,9 @@ My passion lies in developing impactful digital solutions and contributing to op
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alobit21&theme=radical" alt="profile details" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alobit21&show_icons=true&theme=radical" alt="stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alobit21&theme=radical" alt="stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alobit21&theme=radical" alt="languages" height="170" />
+
 <img src="https://streak-stats.demolab.com/?user=alobit21&theme=radical" alt="streak" height="170" />
 
 </div>
